@@ -1,4 +1,4 @@
-#Wonderful useful tools for programming for computer vision.
+# Wonderful useful tools for programming for computer vision.
 
 ##change image size
 resize_image.py
