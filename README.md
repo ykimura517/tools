@@ -14,3 +14,6 @@ client.py
 
 ## server side code for tcp communication
 server.py
+
+## crop paticular part on an image
+crop/
