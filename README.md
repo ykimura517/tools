@@ -17,3 +17,6 @@ server.py
 
 ## crop paticular part on an image
 crop/
+
+##anotation for object detection
+labelImage/
