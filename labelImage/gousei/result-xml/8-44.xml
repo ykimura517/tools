@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>8-44.jpg</filename>
+	<path>8-44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>146</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>61</ymin>
+			<xmax>174</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>9-225.jpg</filename>
+	<path>9-225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>217</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>19</ymin>
+			<xmax>89</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
